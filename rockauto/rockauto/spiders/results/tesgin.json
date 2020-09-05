@@ -1,0 +1,19 @@
+[
+{"url": null},
+{"url": null},
+{"url": null},
+{"url": null},
+{"url": null},
+{"url": null},
+{"url": null},
+{"url": null}
+][
+{"Manufacturer": ["SCHRADER"], "price": ["$1.10"], "ID": ["20018"], "Alt_ID": ["{#20008, 25920615}"], "Info": ["Torque: 11.5 IN-lbs , 1.3 N.m"], "Description": ["TPMS Service Pack / EZ-sensor Rubber Valve Service Pack"]},
+{"Manufacturer": ["STANDARD MOTOR PRODUCTS"], "price": ["$1.83"], "ID": ["TPM2011VK"], "Alt_ID": [], "Info": ["w/ Rubber Valve; Black; 315 Mhz Sensor; Programming required. Program before installation and follow the OEM factory relearn procedure."], "Description": []},
+{"Manufacturer": ["STANDARD MOTOR PRODUCTS"], "price": ["$2.29"], "ID": ["TPM2012VK"], "Alt_ID": [], "Info": ["w/ Aluminum Valve; Black; 315 Mhz Sensor; Programming required. Program before installation and follow the OEM factory relearn procedure."], "Description": ["Service kit for STANDARD MOTOR PRODUCTS replacement TPMS sensors only"]},
+{"Manufacturer": ["VDO"], "price": ["$4.02"], "ID": ["SE54191"], "Alt_ID": ["{#68078867AA}"], "Info": ["Service Kit; Replacement Stem; Silver Valve Stem; 47mm metal valve stem; Must Be Used w/ Service Kit"], "Description": ["OE TPMS Sensor Service Kit"]},
+{"Manufacturer": ["DORMAN"], "price": ["$4.92"], "ID": ["974000"], "Alt_ID": [], "Info": ["Replacement clamp-in valve kit; Fits only Dorman DIRECT-FIT TPMS Sensors"], "Description": []},
+{"Manufacturer": ["ACDELCO"], "price": ["$5.54"], "ID": ["TPMSKIT2"], "Alt_ID": ["{#19386869}"], "Info": ["Rubber Snap-in Stem; 315/314.9 MHz; Multi-application Sensor"], "Description": ["Professional; Includes Rubber Stem and Instruction Sheet"]},
+{"Manufacturer": ["STANDARD MOTOR PRODUCTS"], "price": ["$1.74"], "ID": ["TPM4012SK"], "Alt_ID": [], "Info": ["w/ Aluminum Valve; Black; 315 Mhz Sensor; Programming required. Program before installation and follow the OEM factory relearn procedure."], "Description": []},
+{"Manufacturer": ["ACDELCO"], "price": ["$6.52"], "ID": ["TPMSKIT1"], "Alt_ID": ["{#19386868, 193868868}"], "Info": ["Metal Clamp-in Stem; 315/314.9 MHz; Multi-application Sensor"], "Description": ["Professional; Includes Hex Nut, Valve Core, Stem Cap, Seal Cup Washer, and Instruction Sheet"]}
+]

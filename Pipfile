@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+scrapy = "*"
+bs4 = "*"
+scrapy-proxies-tool = "*"
+scrapy-proxy-pool = "*"
+scrapy-user-agents = "*"
+scrapy-splash = "*"
+selenium = "*"
+scrapy-useragents = "*"
+
+[requires]
+python_version = "3.8"
